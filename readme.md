@@ -236,7 +236,7 @@ work, and the numeric keypad is the Mac's.
   of this tree: the SCSI, the SuperDrive and its floppy loader and writer,
   PRAM persistence, the clock and the SDRAM.
 - The **Mac LC** MiSTer core by **danifunker** - the machine: the V8 glue,
-  video and pseudo-VIA assited with development of Spice, Cuda,
+  video and pseudo-VIA assisted with development of Spice, Cuda,
   the Apple Sound Chip and the ADB devices.
 - **[TG68K](https://github.com/TobiFlex/TG68K.C)** by **Tobias Gubener**,
   through **apolkosnik**'s 68030 fork with its PMMU (Minimig-AGA MiSTer,
