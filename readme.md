@@ -11,7 +11,7 @@ the 68030 out of reset, then the start-up chime, the happy Mac and System 7.1.
 It boots from hard disk images, reads and writes 800K and 1.44 MB floppies,
 and keeps its PRAM and clock between sessions.
 
-![Macintosh Color Classic](1-maccolorclassic.png)
+![Macintosh Color Classic](1-colorclassic.png)
 
 ---
 
